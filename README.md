@@ -1,5 +1,14 @@
 https://codesandbox.io/s/stupefied-browser-jlq1e
 
+Signup
+https://jlq1e.csb.app/signup
+
+Login
+https://jlq1e.csb.app/login
+
+Home
+https://jlq1e.csb.app/Home
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
